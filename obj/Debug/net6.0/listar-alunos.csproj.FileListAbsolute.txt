@@ -1,0 +1,15 @@
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\bin\Debug\net6.0\listar-alunos.exe
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\bin\Debug\net6.0\listar-alunos.deps.json
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\bin\Debug\net6.0\listar-alunos.runtimeconfig.json
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\bin\Debug\net6.0\listar-alunos.dll
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\bin\Debug\net6.0\listar-alunos.pdb
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\obj\Debug\net6.0\listar-alunos.csproj.AssemblyReference.cache
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\obj\Debug\net6.0\listar-alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\obj\Debug\net6.0\listar-alunos.AssemblyInfoInputs.cache
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\obj\Debug\net6.0\listar-alunos.AssemblyInfo.cs
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\obj\Debug\net6.0\listar-alunos.csproj.CoreCompileInputs.cache
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\obj\Debug\net6.0\listar-alunos.dll
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\obj\Debug\net6.0\refint\listar-alunos.dll
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\obj\Debug\net6.0\listar-alunos.pdb
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\obj\Debug\net6.0\listar-alunos.genruntimeconfig.cache
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\listar-alunos\obj\Debug\net6.0\ref\listar-alunos.dll
